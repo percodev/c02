@@ -1,0 +1,248 @@
+connect 10.17.1.99
+disconnect
+bye
+start 1234
+bye
+start 1234
+run pad_get.json
+run net_get.json
+bye
+start 1234 SSL
+run net_get.json
+disconnect
+start 1234
+run net_get.json
+disconnect
+start 1234 SSL
+disconnect
+start 1234 SSL
+disconnect
+start 443 SSL
+start 1234 SSL
+disconnect
+start 1234 SSL
+bye
+start 1234 SSL
+run net_get.json
+disconnect
+bye
+start 1234 SSL
+disconnect
+bye
+start 1234 SSL
+disconnect
+bye
+start 1234 SSL
+disconnect
+bye
+start 1234 SSL
+disconnect
+bye
+start 1234 SSL
+disconnect
+bye
+start 1234 SSL
+disconnect
+bye
+start 1234 SSL
+bye
+start 1234 SSL
+disconnect
+bye
+start 1234 SSL
+disconnect
+bye
+start 1234 SSL
+bye
+start 1234 SSL
+bye
+start 1234 SSL
+bye
+start 1234 SSL
+bye
+start 1234 SSL
+bye
+start 1234 SSL
+bye
+start 1234 SSL
+bye
+start 1234 ssl
+bye
+start 1234 ssl
+disconnect
+bye
+start 1234 ssl
+disconnect
+bye
+start 1234 ssl
+run net_get.json
+playback test.cmd 1000 2
+disconnect
+bye
+start 1234 ssl
+playback test.cmd 1000 20
+disconnect
+bye
+start 1234 ssl
+run net_get.json
+playback test.cmd 1000 20
+disconnect
+bye
+start 1234 ssl
+run net_get.json
+playback test.cmd 1000 100
+playback test.cmd 1000 200
+playback test.cmd 1000 2
+run net_get.json
+disconnect
+start 1234 ssl
+disconnect
+start 1234 ssl
+disconnect
+start 1234 ssl
+run net_get.json
+disconnect
+bye
+start 1234 ssl
+run net_get.json
+playback test.cmd 1000 2
+run net_get.json
+playback test.cmd 1000 1000
+playback test.cmd 1000 800
+bye
+connect 10.1.89.181
+run sysinfo_get.json
+disconnect
+bye
+start 1234 secure
+run state_get.json
+disconnect
+bye
+start 1234 secure
+run state_get.json
+disconnect
+bye
+start 1234 secure
+run state_get.json
+disconnect
+bye
+start 1234 secure
+run state_get.json
+disconnect
+bye
+start 1234 secure
+run state_get.json
+disconnect
+bye
+start 1234 secure
+run state_get.json
+disconnect
+start 1234 secure
+disconnect
+bye
+start 1234 secure
+run state_get.json
+disconnect
+bye
+start 1234 secure
+run state_get.json
+disconnect
+bye
+start 1234 secure
+run state_get.json
+disconnect
+bye
+start 1234 secure
+run state_get.json
+disconnect
+bye
+start 1234 secure
+disconnect
+bye
+start 1234 secure
+disconnect
+start 1234
+disconnect
+bye
+start 1234
+bye
+start 1234
+run state_get.json
+run exdev_control_open.json
+run exdev_control_open_2.json
+run state_get.json
+disconnect
+bye
+start 1234
+run exdev_control_open_2.json
+run exdev_control_open.json
+run state_get.json
+disconnect
+start 1234 secure
+run exdev_control_open.json
+run exdev_control_open_2.json
+run state_get.json
+disconnect
+bye
+start 1234 secure
+run state_get.json
+run exdev_control_open_2.json
+run exdev_control_open.json
+run state_get.json
+disconnect
+bye
+start 1234 secure
+run state_get.json
+disconnect
+start 1234 secure
+disconnect
+bye
+start 1234 secure
+run state_get.json
+disconnect
+bye
+start 1234 secure
+run state_get.json
+disconnect
+bye
+start 1234 secure
+run state_get.json
+disconnect
+bye
+start 1234 secure
+run state_get.json
+bye
+start 1234 secure
+disconnect
+bye
+start 1234 secure
+disconnect
+bye
+start 1234 secure
+disconnect
+bye
+start 1234 secure
+run state_get.json
+disconnect
+bye
+q
+bye
+start 1234
+exit
+start 1234 ssl
+exit
+connect 10.1.232.84
+run reader_set.json
+run reader_rem_1.json
+connect 10.1.232.84
+run reader_set.json
+connect 10.1.232.84
+run cross_get.json
+connect 10.1.232.84
+run reader_set.json
+disconnect
+connect 10.1.232.84
+run reader_set.json
+disconnect
+connect 10.1.18.250
+exit
