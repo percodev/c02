@@ -1,0 +1,10 @@
+{
+	"set" : "reader",
+	"reader" : {
+		"number" : 4,
+		"type" : "Barcode-USB",
+		"port" : 0,
+		"exdev_number" :0,
+		"exdev_direction" : 0
+	}
+}

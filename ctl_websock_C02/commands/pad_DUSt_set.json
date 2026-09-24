@@ -1,0 +1,11 @@
+{
+	"set" : "pad",
+	"pad" : {
+		"number" : 5,
+		"function" : "remote control input",
+		"resource_number" : 0,
+		"resource_direction" : 2,
+		"normal_state" : "break",
+		"debounce" : 20
+	}
+}

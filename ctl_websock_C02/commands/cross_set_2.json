@@ -1,0 +1,14 @@
+{
+	"set" : "cref",
+	"cref" : {
+		"number" : 2,
+		"source" : "activating fire alarm input",
+		"source_number" : 1,
+		"source_direction" : 1,
+		"destination" : "activated output",
+		"destination_number" : 1,
+		"destination_direction" : 0,
+		"time_criteria" : "work time",
+		"time_reaction" : 1000
+	}
+}

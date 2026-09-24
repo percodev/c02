@@ -1,0 +1,10 @@
+{
+	"control" : "exdev",
+	"exdev" : {
+		"number" :  0,
+		"direction" : 1, 
+		"action" : "open",
+		"open_type" : "open once remove card",
+		"open_time" : 20000
+	}
+}

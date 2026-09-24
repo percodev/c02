@@ -1,0 +1,11 @@
+{
+	"set" : "pad",
+	"pad" : {
+		"number" : 7,
+		"function" : "fire alarm input",
+		"resource_number" : 0,
+		"resource_direction" : 0,
+		"normal_state" : "short",
+		"debounce" : 20
+	}
+}

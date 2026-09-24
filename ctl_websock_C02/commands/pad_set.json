@@ -1,0 +1,11 @@
+{
+	"set" : "pad",
+	"pad" : {
+		"number" : 1,
+		"function" : "input",
+		"resource_number" : 1,
+		"resource_direction" : 1,
+		"normal_state" : "short",
+		"debounce" : 50
+	}
+}

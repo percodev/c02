@@ -1,0 +1,10 @@
+{
+	"set" : "reader",
+	"reader" : {
+		"number" : 1,
+		"type" : "Wiegand26",
+		"port" : 1,
+		"exdev_number" : 1,
+		"exdev_direction" : 1
+	}
+}

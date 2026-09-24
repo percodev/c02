@@ -1,0 +1,8 @@
+{
+	"set" :  "exdev",
+	"exdev" : {
+		"number" : 0,
+		"remove_card_time" : 20000,
+		"wait_command_time" : 20000
+	}
+}

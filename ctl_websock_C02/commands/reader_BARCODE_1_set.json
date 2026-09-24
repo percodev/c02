@@ -1,0 +1,10 @@
+{
+	"set" : "reader",
+	"reader" : {
+		"number" : 2,
+		"type" : "Barcode",
+		"port" : 0,
+		"exdev_number" :0,
+		"exdev_direction" : 0
+	}
+}

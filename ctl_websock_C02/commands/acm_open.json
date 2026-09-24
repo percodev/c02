@@ -1,0 +1,8 @@
+{
+	"control" : "acm",
+	"acm" : {
+		"number" :  0,
+		"direction" :  0,
+		"access_mode" : "open"
+	}
+}

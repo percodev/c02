@@ -1,0 +1,10 @@
+{
+	"control" : "exdev",
+	"exdev" : {
+		"number" :  1,
+		"direction" : 1, 
+		"action" : "open",
+		"open_type" : "",
+		"open_time" : 1000
+	}
+}

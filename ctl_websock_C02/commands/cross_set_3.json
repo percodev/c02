@@ -1,0 +1,14 @@
+{
+	"set" : "cref",
+	"cref" : {
+		"number" : 3,
+		"source" : "activating input",
+		"source_number" : 2,
+		"source_direction" : 1,
+		"destination" : "activated output",
+		"destination_number" : 0,
+		"destination_direction" : 0,
+		"time_criteria" : "work time",
+		"time_reaction" : 1000
+	}
+}

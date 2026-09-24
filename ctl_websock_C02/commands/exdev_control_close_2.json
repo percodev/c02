@@ -1,0 +1,8 @@
+{
+	"control" : "exdev",
+	"exdev" : {
+		"number" :  0,
+		"direction" : 1, 
+		"action" : "close"
+	}
+}

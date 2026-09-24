@@ -1,0 +1,11 @@
+{
+	"set" : "pad",
+	"pad" : {
+		"number" : 11,
+		"function" : "exdev output",
+		"resource_number" : 0,
+		"resource_direction" : 1,
+		"normal_state" : "not powered",
+		"debounce" : 20
+	}
+}

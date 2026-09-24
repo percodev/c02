@@ -1,0 +1,14 @@
+{
+	"set" : "cref",
+	"cref" : {
+		"number" : 0,
+		"source" : "command",
+		"source_number" : 1,
+		"source_direction" : 1,
+		"destination" : "activated output",
+		"destination_number" : 0,
+		"destination_direction" : 0,
+		"time_criteria" : "absolute time",
+		"time_reaction" : 1000
+	}
+}
